@@ -1,0 +1,16 @@
+{
+  "name": "scaletta-crime-family",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.3.9",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "disable-devtool": "^0.3.9"
+  }
+}
