@@ -131,7 +131,7 @@
     "color": "#C9A84C",
     "socials": [
       { "platform": "instagram", "url": "https://www.instagram.com/_iamjeypi/" },
-      { "platform": "tiktok", "url": "https://www.instagram.com/@alihaha" }
+      { "platform": "tiktok", "url": "https://www.tiktok.com/@alihaha" }
     ],
     "children": [],
     "parentId": "vito",
@@ -484,11 +484,11 @@
     "discordId": "1002895979684573234",
     "color": "#C9A84C",
     "socials": [
-      { "platform": "tiktok", "url": "https://www.tiktok.com/@smokyness" },
+      { "platform": "tiktok", "url": "https://www.tiktok.com/@smokyness" }
     ],
     "children": ["kier"],
     "parentId": null,
-    "music": "/assets/music/smoky.mp3"
+    "music": "/assets/music/smoky.mp3",
     "spouseId": "ash"
   },
   "ash": {
@@ -503,7 +503,7 @@
     "socials": [],
     "children": [],
     "parentId": null,
-    "music": ""
+    "music": "",
     "spouseId": "smoky"
   },
   "kier": {
@@ -530,7 +530,7 @@
     "discordId": "944464510104780800",
     "color": "#C9A84C",
     "socials": [
-      { "platform": "instagram", "url": "https://www.instagram.com/aasrn._/" },
+      { "platform": "instagram", "url": "https://www.instagram.com/aasrn._/" }
     ],
     "children": [],
     "parentId": null,
@@ -644,7 +644,7 @@
     "discordId": "916984202656907285",
     "color": "#C9A84C",
     "socials": [
-      { "platform": "instagram", "url": "https://www.instagram.com/_pusameow/" },
+      { "platform": "instagram", "url": "https://www.instagram.com/_pusameow/" }
     ],
     "children": [],
     "parentId": null,
