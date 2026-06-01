@@ -218,6 +218,20 @@
     "parentId": "vito",
     "music": ""
   },
+  "namu": {
+    "name": "Namu Hara Scaletta",
+    "rank": "consigliere",
+    "rankLabel": "Consigliere",
+    "bio": "malay ko kung ano lalagay",
+    "avatar": "",
+    "background": "",
+    "discordId": "546578214135267328",
+    "color": "#C9A84C",
+    "socials": [],
+    "children": [],
+    "parentId": null,
+    "music": ""
+  },
   "paulo": {
     "name": "Paulo Ozawa",
     "rank": "caporegime",
